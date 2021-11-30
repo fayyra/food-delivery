@@ -9,3 +9,5 @@ Commands which is available only for admins is in this file
 Includes admin id, bot token and so on
 ## bot.py ##
 The main file that combines all the files mentioned above and that is used to launch the bot
+## menu.txt ##
+It contains meals, it's prices and url links of photos. To add new meal append this Name:emoji: : cost : link. And to remove meal just delete the line with that meal
