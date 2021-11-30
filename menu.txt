@@ -1,0 +1,4 @@
+Ramen:steaming_bowl: : 21000 : https://t.me/menu_ichiraku/12
+Sushi:sushi: : 22000 : https://t.me/menu_ichiraku/11
+Sashimi:bento_box: : 23000 : https://t.me/menu_ichiraku/10
+Noodles:spaghetti: : 24000 : https://t.me/menu_ichiraku/9
