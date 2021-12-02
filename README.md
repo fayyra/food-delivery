@@ -12,7 +12,6 @@ The main file that combines all the files mentioned above and that is used to la
 ## menu.txt ##
 It contains meals, it's prices and url links of photos. To add new meal append this Name:emoji: : cost : link. And to remove meal just delete the line with that meal
 ## requirements ##
-pyrogram
-emoji
+pyrogram, emoji
 ## Downloading ##
 Clone the rep to your pc and download the requirements 
